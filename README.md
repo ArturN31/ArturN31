@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Artur Nowakowski</h1>
+<h3 align="center">A front-end web developer with a 1st Class Honours degree in Computer Science, with a robust web development foundation and a dedication to continuous growth.</h3>
 
 <!--
 **ArturN31/ArturN31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
