@@ -109,4 +109,8 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArturN31&icon=5&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ArturN31&style=for-the-badge&color=blueviolet)
+
+</div>
